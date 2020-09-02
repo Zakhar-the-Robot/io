@@ -1,0 +1,6 @@
+[submodule "zakhar-face-module"]
+	path = zakhar-face-module
+	url = git@github.com:an-dr/zakhar-face-module.git
+[submodule "zakhar_sensors"]
+	path = zakhar_sensors
+	url = git@github.com:an-dr/zakhar_sensors.git
