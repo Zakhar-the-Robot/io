@@ -1,6 +1,6 @@
 # Zakhar the Robot: IO
 
-[![Main - Page](https://img.shields.io/badge/Project-Zakhar%20the%20Robot-blue)](https://zakhar-the-robot.github.io/doc "See the project on Github") [![View - Documentation](https://img.shields.io/badge/Documentation-orange)](https://zakhar-the-robot.github.io/doc/docs/parts/io "Go to Documentation")
+[![Main - Page](https://img.shields.io/badge/Project-Zakhar%20the%20Robot-blue)](https://zakhar-the-robot.github.io/doc "See the project on Github") [![View - Documentation](https://img.shields.io/badge/Documentation-orange)](https://zakhar-the-robot.github.io/doc/docs/gears/io "Go to Documentation")
 
 Part of the Zakhar project responsible for interaction.
 
